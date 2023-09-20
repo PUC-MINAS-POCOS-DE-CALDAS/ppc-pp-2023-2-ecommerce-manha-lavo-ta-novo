@@ -1,3 +1,12 @@
+# Membros dos grupo:
+### Marcelo
+### Enzo
+### Tiago
+### João Lucas
+### Rafael
+### Danilo
+
+
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
